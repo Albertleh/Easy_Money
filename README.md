@@ -10,6 +10,9 @@ Gambling is dumb !
 The method:
 
 Basically gambling :D lol.
+
+This is called the Martin Gale strtategy and it's about 220 Years old.
+
 It's very simple: You play roulette and start by making a low bet f.e: 5$
 If you win, you do it again. If you loose, you bet twice as much as
 you did the previous round ->10$
