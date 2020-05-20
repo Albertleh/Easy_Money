@@ -1,5 +1,5 @@
 # Easy_Money
-How to make ez money 97+% chance for profit by Albert Lehninger
+How to make ez money 97+% chance for profit 
 
 Disclaimer: 
 Im not responsible for any actions that involve real money.
