@@ -9,7 +9,7 @@ Gambling is dumb !
 
 The method:
 
-Basically gambling :D lol.
+Basically gambling :D
 
 This is called the Martin Gale strtategy and it's about 220 Years old.
 
